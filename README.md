@@ -52,7 +52,7 @@ Check if the `/dist` folder successfully created. There should be a file called 
 
 You can then run the app by running `node dist/index.js`
 
-## Build Scripts to Automate Repetitive Stuffs
+## Build Scripts to Automate Repetitive Tasks
 
 Create script inside `package.json` to automate repetitive stuff
 
